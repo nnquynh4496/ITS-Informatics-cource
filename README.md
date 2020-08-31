@@ -2,4 +2,4 @@
 
 This Github repository contains 50 rows data samples 
 
-The authors: Quynh Nhut Nguyen, Nghia Duong-Trung.
+The authors: Nghia Duong-Trung, Quynh Nhut Nguyen.
